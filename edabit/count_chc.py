@@ -12,5 +12,6 @@ def count_characters(lst):
 print(count_characters([
     "###",
     "###",
+    "###",
     "###"
 ]))

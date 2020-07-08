@@ -13,4 +13,4 @@ def integer_boolean(n):
     return lst
 
 
-print(integer_boolean("1001000111"))
+print(integer_boolean("10010001110"))
